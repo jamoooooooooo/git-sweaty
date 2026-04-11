@@ -531,5 +531,18 @@
     "start_date_local": "2026-04-07T18:26:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 2416.0,
+    "elevation_gain": 9.0,
+    "id": "18059373181",
+    "moving_time": 741.0,
+    "name": "CBTM shakeout run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-10T19:23:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
