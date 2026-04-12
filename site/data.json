@@ -377,6 +377,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18059373181",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 7,
+      "name": "Cherry Blossom Ten Miler",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18080119875",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -752,6 +761,15 @@
           "distance": 2416.0,
           "elevation_gain": 9.0,
           "moving_time": 741.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18080119875"
+          ],
+          "count": 1,
+          "distance": 16200.2,
+          "elevation_gain": 36.0,
+          "moving_time": 5692.0
         }
       },
       "Walk": {
@@ -767,7 +785,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:32:02.826932+00:00",
+  "generated_at": "2026-04-12T15:34:34.390346+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
