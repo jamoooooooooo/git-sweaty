@@ -596,5 +596,31 @@
     "start_date_local": "2026-04-20T19:21:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 6035.7,
+    "elevation_gain": 17.0,
+    "id": "18220375911",
+    "moving_time": 1992.0,
+    "name": "First no-phone run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T21:44:34Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 5051.0,
+    "elevation_gain": 27.0,
+    "id": "18231393844",
+    "moving_time": 1811.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-23T16:45:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
