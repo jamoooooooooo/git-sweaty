@@ -503,6 +503,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18510143683",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 16,
+      "name": "Too hot to run I had to quit halfway",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18548617880",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1004,6 +1013,15 @@
           "distance": 11269.8,
           "elevation_gain": 33.0,
           "moving_time": 3908.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18548617880"
+          ],
+          "count": 1,
+          "distance": 5868.6,
+          "elevation_gain": 10.0,
+          "moving_time": 2131.0
         }
       },
       "Walk": {
@@ -1019,7 +1037,7 @@
       }
     }
   },
-  "generated_at": "2026-05-17T15:58:09.082623+00:00",
+  "generated_at": "2026-05-18T17:29:06.798254+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
