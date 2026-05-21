@@ -752,5 +752,18 @@
     "start_date_local": "2026-05-19T22:28:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 5726.1,
+    "elevation_gain": 44.0,
+    "id": "18590360737",
+    "moving_time": 1967.0,
+    "name": "Rainy Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-20T23:15:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
