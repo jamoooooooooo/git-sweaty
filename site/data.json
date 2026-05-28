@@ -566,6 +566,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18667664035",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 18,
+      "name": "Run Club",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18683413235",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1130,6 +1139,15 @@
           "distance": 8129.1,
           "elevation_gain": 23.0,
           "moving_time": 2385.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18683413235"
+          ],
+          "count": 1,
+          "distance": 6836.6,
+          "elevation_gain": 33.0,
+          "moving_time": 2534.0
         }
       },
       "Walk": {
@@ -1145,7 +1163,7 @@
       }
     }
   },
-  "generated_at": "2026-05-27T17:56:56.410325+00:00",
+  "generated_at": "2026-05-28T18:10:35.055818+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
