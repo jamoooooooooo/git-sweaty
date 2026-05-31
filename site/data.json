@@ -575,6 +575,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18683413235",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 10,
+      "name": "Chicago Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18717919897",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1148,6 +1157,15 @@
           "distance": 6836.6,
           "elevation_gain": 33.0,
           "moving_time": 2534.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18717919897"
+          ],
+          "count": 1,
+          "distance": 6486.5,
+          "elevation_gain": 22.0,
+          "moving_time": 2213.0
         }
       },
       "Walk": {
@@ -1163,7 +1181,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T16:03:04.760233+00:00",
+  "generated_at": "2026-05-31T16:06:02.547618+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
