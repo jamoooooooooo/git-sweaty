@@ -895,5 +895,18 @@
     "start_date_local": "2026-06-16T22:05:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 7031.0,
+    "elevation_gain": 71.2,
+    "id": "18987142150",
+    "moving_time": 2478.0,
+    "name": "Run + walk tour of UVA",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-19T12:03:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

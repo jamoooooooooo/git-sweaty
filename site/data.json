@@ -620,6 +620,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18952405853",
       "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 12,
+      "name": "Run + walk tour of UVA",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18987142150",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1238,6 +1247,15 @@
           "distance": 5634.9,
           "elevation_gain": 19.0,
           "moving_time": 1899.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18987142150"
+          ],
+          "count": 1,
+          "distance": 7031.0,
+          "elevation_gain": 71.2,
+          "moving_time": 2478.0
         }
       },
       "Walk": {
@@ -1253,7 +1271,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T17:18:22.356853+00:00",
+  "generated_at": "2026-06-20T16:16:02.779911+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
