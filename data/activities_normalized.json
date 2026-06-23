@@ -908,5 +908,18 @@
     "start_date_local": "2026-06-19T12:03:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 3442.0,
+    "elevation_gain": 57.0,
+    "id": "19028073926",
+    "moving_time": 1163.0,
+    "name": "Flooded run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-22T18:07:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
