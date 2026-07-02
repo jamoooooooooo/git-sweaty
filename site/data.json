@@ -647,6 +647,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19098783793",
       "year": 2026
+    },
+    {
+      "date": "2026-07-01",
+      "hour": 9,
+      "name": "Good to be home",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19140167708",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-02",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19150911215",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1292,6 +1310,24 @@
           "distance": 5081.5,
           "elevation_gain": 39.0,
           "moving_time": 1799.0
+        },
+        "2026-07-01": {
+          "activity_ids": [
+            "19140167708"
+          ],
+          "count": 1,
+          "distance": 10485.0,
+          "elevation_gain": 42.0,
+          "moving_time": 3446.0
+        },
+        "2026-07-02": {
+          "activity_ids": [
+            "19150911215"
+          ],
+          "count": 1,
+          "distance": 3241.9,
+          "elevation_gain": 20.0,
+          "moving_time": 1036.0
         }
       },
       "Walk": {
@@ -1307,7 +1343,7 @@
       }
     }
   },
-  "generated_at": "2026-07-01T17:12:54.199578+00:00",
+  "generated_at": "2026-07-02T16:48:16.631369+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",

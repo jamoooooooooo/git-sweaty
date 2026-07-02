@@ -934,5 +934,31 @@
     "start_date_local": "2026-06-28T08:53:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 10485.0,
+    "elevation_gain": 42.0,
+    "id": "19140167708",
+    "moving_time": 3446.0,
+    "name": "Good to be home",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-01T09:17:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 3241.9,
+    "elevation_gain": 20.0,
+    "id": "19150911215",
+    "moving_time": 1036.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-02T06:37:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
