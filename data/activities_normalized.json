@@ -999,5 +999,18 @@
     "start_date_local": "2026-07-13T22:51:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 4828.0,
+    "elevation_gain": 0.0,
+    "id": "19342903086",
+    "moving_time": 1645.0,
+    "name": "Treadmill run cuz it\u2019s 100 degrees out",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-16T18:22:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
