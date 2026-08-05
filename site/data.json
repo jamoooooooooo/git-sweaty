@@ -773,6 +773,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19590417428",
       "year": 2026
+    },
+    {
+      "date": "2026-08-05",
+      "hour": 8,
+      "name": "96% humidity + rain interval run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19612208882",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1544,6 +1553,15 @@
           "distance": 4828.3,
           "elevation_gain": 21.0,
           "moving_time": 1597.0
+        },
+        "2026-08-05": {
+          "activity_ids": [
+            "19612208882"
+          ],
+          "count": 1,
+          "distance": 8848.2,
+          "elevation_gain": 13.0,
+          "moving_time": 3026.0
         }
       },
       "Walk": {
@@ -1559,7 +1577,7 @@
       }
     }
   },
-  "generated_at": "2026-08-04T16:49:41.302405+00:00",
+  "generated_at": "2026-08-05T16:39:56.970953+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
