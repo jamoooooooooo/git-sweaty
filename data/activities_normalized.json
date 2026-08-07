@@ -1129,5 +1129,18 @@
     "start_date_local": "2026-08-05T08:03:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 5590.8,
+    "elevation_gain": 24.0,
+    "id": "19628478440",
+    "moving_time": 2038.0,
+    "name": "Exploring Vancouver w ME",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-06T07:19:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
