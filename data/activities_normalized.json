@@ -1142,5 +1142,18 @@
     "start_date_local": "2026-08-06T07:19:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 6000.0,
+    "elevation_gain": 0.0,
+    "id": "19645191032",
+    "moving_time": 2580.0,
+    "name": "Cruise treadmill hill sprints",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-07T15:03:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
