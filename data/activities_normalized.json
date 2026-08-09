@@ -1155,5 +1155,18 @@
     "start_date_local": "2026-08-07T15:03:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 1600.0,
+    "elevation_gain": 0.0,
+    "id": "19656984938",
+    "moving_time": 471.0,
+    "name": "Quick treadmill mile",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-08T12:00:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
