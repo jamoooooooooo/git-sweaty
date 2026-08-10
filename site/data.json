@@ -809,6 +809,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19656984938",
       "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 13,
+      "name": "Ow that hurt",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19672650595",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 14,
+      "name": "Afternoon Run to finish workout",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19676511150",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1616,6 +1634,16 @@
           "distance": 1600.0,
           "elevation_gain": 0.0,
           "moving_time": 471.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19672650595",
+            "19676511150"
+          ],
+          "count": 2,
+          "distance": 13042.7,
+          "elevation_gain": 46.0,
+          "moving_time": 4610.0
         }
       },
       "Walk": {
@@ -1631,7 +1659,7 @@
       }
     }
   },
-  "generated_at": "2026-08-09T15:28:21.876844+00:00",
+  "generated_at": "2026-08-10T15:58:15.445590+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",

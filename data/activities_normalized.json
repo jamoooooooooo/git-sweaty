@@ -1168,5 +1168,31 @@
     "start_date_local": "2026-08-08T12:00:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 8000.0,
+    "elevation_gain": 0.0,
+    "id": "19672650595",
+    "moving_time": 2832.0,
+    "name": "Ow that hurt",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-09T13:50:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 5042.7,
+    "elevation_gain": 46.0,
+    "id": "19676511150",
+    "moving_time": 1778.0,
+    "name": "Afternoon Run to finish workout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-09T14:10:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
