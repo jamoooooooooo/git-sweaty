@@ -836,6 +836,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19687379847",
       "year": 2026
+    },
+    {
+      "date": "2026-08-11",
+      "hour": 15,
+      "name": "Treadmill run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19701539044",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1662,6 +1671,15 @@
           "distance": 13042.7,
           "elevation_gain": 46.0,
           "moving_time": 4610.0
+        },
+        "2026-08-11": {
+          "activity_ids": [
+            "19701539044"
+          ],
+          "count": 1,
+          "distance": 6500.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2471.0
         }
       },
       "Walk": {
@@ -1677,7 +1695,7 @@
       }
     }
   },
-  "generated_at": "2026-08-11T15:58:56.713378+00:00",
+  "generated_at": "2026-08-12T15:57:05.893218+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
