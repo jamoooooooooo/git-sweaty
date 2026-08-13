@@ -845,6 +845,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19701539044",
       "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 20,
+      "name": "Last cruise run ever hopefully",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19719092317",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1680,6 +1689,15 @@
           "distance": 6500.0,
           "elevation_gain": 0.0,
           "moving_time": 2471.0
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "19719092317"
+          ],
+          "count": 1,
+          "distance": 8046.7,
+          "elevation_gain": 0.0,
+          "moving_time": 2782.0
         }
       },
       "Walk": {
@@ -1695,7 +1713,7 @@
       }
     }
   },
-  "generated_at": "2026-08-12T15:57:05.893218+00:00",
+  "generated_at": "2026-08-13T15:57:01.691174+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",

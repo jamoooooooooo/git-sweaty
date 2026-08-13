@@ -1220,5 +1220,18 @@
     "start_date_local": "2026-08-11T15:27:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 8046.7,
+    "elevation_gain": 0.0,
+    "id": "19719092317",
+    "moving_time": 2782.0,
+    "name": "Last cruise run ever hopefully",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-12T20:52:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
