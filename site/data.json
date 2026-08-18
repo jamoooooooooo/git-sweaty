@@ -854,6 +854,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19719092317",
       "year": 2026
+    },
+    {
+      "date": "2026-08-14",
+      "hour": 16,
+      "name": "Very short shear water cove hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19781232507",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-15",
+      "hour": 11,
+      "name": "Harding Icefield",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19781248571",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-16",
+      "hour": 9,
+      "name": "Crow pass trail to Raven Glacier",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19781255500",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -876,6 +903,33 @@
           "distance": 3219.6,
           "elevation_gain": 84.0,
           "moving_time": 3743.0
+        },
+        "2026-08-14": {
+          "activity_ids": [
+            "19781232507"
+          ],
+          "count": 1,
+          "distance": 746.3,
+          "elevation_gain": 92.0,
+          "moving_time": 983.0
+        },
+        "2026-08-15": {
+          "activity_ids": [
+            "19781248571"
+          ],
+          "count": 1,
+          "distance": 14880.0,
+          "elevation_gain": 1049.0,
+          "moving_time": 14363.0
+        },
+        "2026-08-16": {
+          "activity_ids": [
+            "19781255500"
+          ],
+          "count": 1,
+          "distance": 10693.8,
+          "elevation_gain": 764.0,
+          "moving_time": 9401.0
         }
       },
       "Run": {
@@ -1713,7 +1767,7 @@
       }
     }
   },
-  "generated_at": "2026-08-17T15:21:58.743595+00:00",
+  "generated_at": "2026-08-18T15:28:32.971934+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",

@@ -1233,5 +1233,44 @@
     "start_date_local": "2026-08-12T20:52:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 746.3,
+    "elevation_gain": 92.0,
+    "id": "19781232507",
+    "moving_time": 983.0,
+    "name": "Very short shear water cove hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-14T16:49:41Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 14880.0,
+    "elevation_gain": 1049.0,
+    "id": "19781248571",
+    "moving_time": 14363.0,
+    "name": "Harding Icefield",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-15T11:02:25Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 10693.8,
+    "elevation_gain": 764.0,
+    "id": "19781255500",
+    "moving_time": 9401.0,
+    "name": "Crow pass trail to Raven Glacier",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-16T09:36:56Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
