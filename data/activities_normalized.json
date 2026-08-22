@@ -1298,5 +1298,18 @@
     "start_date_local": "2026-08-20T18:20:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 6814.8,
+    "elevation_gain": 35.0,
+    "id": "19842673360",
+    "moving_time": 2244.0,
+    "name": "Slow speedwork",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-21T17:50:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
