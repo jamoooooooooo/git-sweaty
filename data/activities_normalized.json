@@ -1350,5 +1350,18 @@
     "start_date_local": "2026-08-26T16:02:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 21337.5,
+    "elevation_gain": 122.0,
+    "id": "19963936868",
+    "moving_time": 7869.0,
+    "name": "Might miss my Amtrak",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-30T07:07:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
