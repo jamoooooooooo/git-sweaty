@@ -1415,5 +1415,18 @@
     "start_date_local": "2026-09-04T08:17:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 17901.4,
+    "elevation_gain": 98.0,
+    "id": "20065051689",
+    "moving_time": 6384.0,
+    "name": "Drunk and delirious",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-06T08:48:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

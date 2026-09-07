@@ -980,6 +980,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20033062365",
       "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 8,
+      "name": "Drunk and delirious",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20065051689",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1950,6 +1959,15 @@
           "distance": 5020.1,
           "elevation_gain": 21.0,
           "moving_time": 1760.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20065051689"
+          ],
+          "count": 1,
+          "distance": 17901.4,
+          "elevation_gain": 98.0,
+          "moving_time": 6384.0
         }
       },
       "Walk": {
@@ -1965,7 +1983,7 @@
       }
     }
   },
-  "generated_at": "2026-09-06T17:30:10.816227+00:00",
+  "generated_at": "2026-09-07T18:59:06.273166+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
