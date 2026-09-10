@@ -1441,5 +1441,18 @@
     "start_date_local": "2026-09-07T17:40:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 10720.6,
+    "elevation_gain": 70.0,
+    "id": "20109672180",
+    "moving_time": 3821.0,
+    "name": "1st run w/ real running shoes\u2026 WOW",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-09T17:50:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

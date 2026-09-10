@@ -998,6 +998,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20080901560",
       "year": 2026
+    },
+    {
+      "date": "2026-09-09",
+      "hour": 17,
+      "name": "1st run w/ real running shoes\u2026 WOW",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20109672180",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1986,6 +1995,15 @@
           "distance": 8191.9,
           "elevation_gain": 53.0,
           "moving_time": 2878.0
+        },
+        "2026-09-09": {
+          "activity_ids": [
+            "20109672180"
+          ],
+          "count": 1,
+          "distance": 10720.6,
+          "elevation_gain": 70.0,
+          "moving_time": 3821.0
         }
       },
       "Walk": {
@@ -2001,7 +2019,7 @@
       }
     }
   },
-  "generated_at": "2026-09-09T18:18:16.748057+00:00",
+  "generated_at": "2026-09-10T18:04:51.331257+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
