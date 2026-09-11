@@ -1007,6 +1007,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20109672180",
       "year": 2026
+    },
+    {
+      "date": "2026-09-10",
+      "hour": 16,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20122202030",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20132046736",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2004,6 +2022,24 @@
           "distance": 10720.6,
           "elevation_gain": 70.0,
           "moving_time": 3821.0
+        },
+        "2026-09-10": {
+          "activity_ids": [
+            "20122202030"
+          ],
+          "count": 1,
+          "distance": 7716.0,
+          "elevation_gain": 60.0,
+          "moving_time": 2807.0
+        },
+        "2026-09-11": {
+          "activity_ids": [
+            "20132046736"
+          ],
+          "count": 1,
+          "distance": 7712.7,
+          "elevation_gain": 15.0,
+          "moving_time": 2496.0
         }
       },
       "Walk": {
@@ -2019,7 +2055,7 @@
       }
     }
   },
-  "generated_at": "2026-09-10T18:04:51.331257+00:00",
+  "generated_at": "2026-09-11T18:09:55.395956+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
