@@ -1480,5 +1480,18 @@
     "start_date_local": "2026-09-11T11:13:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 8733.9,
+    "elevation_gain": 57.0,
+    "id": "20161022462",
+    "moving_time": 3409.0,
+    "name": "Fibula is completely fucked GG",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-13T11:00:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

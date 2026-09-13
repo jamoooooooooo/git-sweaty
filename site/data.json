@@ -1025,6 +1025,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20132046736",
       "year": 2026
+    },
+    {
+      "date": "2026-09-13",
+      "hour": 11,
+      "name": "Fibula is completely fucked GG",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20161022462",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2040,6 +2049,15 @@
           "distance": 7712.7,
           "elevation_gain": 15.0,
           "moving_time": 2496.0
+        },
+        "2026-09-13": {
+          "activity_ids": [
+            "20161022462"
+          ],
+          "count": 1,
+          "distance": 8733.9,
+          "elevation_gain": 57.0,
+          "moving_time": 3409.0
         }
       },
       "Walk": {
@@ -2055,7 +2073,7 @@
       }
     }
   },
-  "generated_at": "2026-09-12T17:40:55.985515+00:00",
+  "generated_at": "2026-09-13T17:55:23.369541+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
