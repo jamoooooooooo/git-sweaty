@@ -1493,5 +1493,18 @@
     "start_date_local": "2026-09-13T11:00:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 11311.1,
+    "elevation_gain": 63.0,
+    "id": "20208024674",
+    "moving_time": 3778.0,
+    "name": "Leg is cooked?",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-16T20:04:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
