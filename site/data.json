@@ -1043,6 +1043,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20208024674",
       "year": 2026
+    },
+    {
+      "date": "2026-09-17",
+      "hour": 18,
+      "name": "Running aside Green undoubtedly safer than riding Green Line",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20220780514",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20226753556",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2076,6 +2094,24 @@
           "distance": 11311.1,
           "elevation_gain": 63.0,
           "moving_time": 3778.0
+        },
+        "2026-09-17": {
+          "activity_ids": [
+            "20220780514"
+          ],
+          "count": 1,
+          "distance": 13804.8,
+          "elevation_gain": 129.0,
+          "moving_time": 4985.0
+        },
+        "2026-09-18": {
+          "activity_ids": [
+            "20226753556"
+          ],
+          "count": 1,
+          "distance": 5053.6,
+          "elevation_gain": 19.0,
+          "moving_time": 1646.0
         }
       },
       "Walk": {
@@ -2091,7 +2127,7 @@
       }
     }
   },
-  "generated_at": "2026-09-17T18:48:34.745255+00:00",
+  "generated_at": "2026-09-18T18:03:57.064353+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",

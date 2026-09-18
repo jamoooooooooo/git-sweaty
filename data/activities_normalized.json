@@ -1506,5 +1506,31 @@
     "start_date_local": "2026-09-16T20:04:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 13804.8,
+    "elevation_gain": 129.0,
+    "id": "20220780514",
+    "moving_time": 4985.0,
+    "name": "Running aside Green undoubtedly safer than riding Green Line",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-17T18:16:20Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 5053.6,
+    "elevation_gain": 19.0,
+    "id": "20226753556",
+    "moving_time": 1646.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-18T08:19:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
