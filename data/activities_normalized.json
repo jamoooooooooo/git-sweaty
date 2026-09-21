@@ -1545,5 +1545,18 @@
     "start_date_local": "2026-09-19T09:14:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 21154.1,
+    "elevation_gain": 79.0,
+    "id": "20261892784",
+    "moving_time": 7126.0,
+    "name": "Making up for my wedding shenanigans",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-20T18:36:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
