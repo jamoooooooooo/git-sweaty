@@ -1558,5 +1558,18 @@
     "start_date_local": "2026-09-20T18:36:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-21",
+    "distance": 9973.5,
+    "elevation_gain": 40.0,
+    "id": "20274966807",
+    "moving_time": 3206.0,
+    "name": "Unavoidable",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-21T19:20:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
