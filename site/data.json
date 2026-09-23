@@ -1088,6 +1088,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20274966807",
       "year": 2026
+    },
+    {
+      "date": "2026-09-22",
+      "hour": 18,
+      "name": "Only DC running path that\u2019s safe",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20289394198",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2166,6 +2175,15 @@
           "distance": 9973.5,
           "elevation_gain": 40.0,
           "moving_time": 3206.0
+        },
+        "2026-09-22": {
+          "activity_ids": [
+            "20289394198"
+          ],
+          "count": 1,
+          "distance": 10191.3,
+          "elevation_gain": 69.0,
+          "moving_time": 3335.0
         }
       },
       "Walk": {
@@ -2181,7 +2199,7 @@
       }
     }
   },
-  "generated_at": "2026-09-22T18:29:38.979317+00:00",
+  "generated_at": "2026-09-23T18:49:33.949346+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
