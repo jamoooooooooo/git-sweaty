@@ -1115,6 +1115,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20315919285",
       "year": 2026
+    },
+    {
+      "date": "2026-09-25",
+      "hour": 16,
+      "name": "So statistically unlikely",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20328709660",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-26",
+      "hour": 9,
+      "name": "What a difference an extra AirPod can make",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20337608840",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2220,6 +2238,24 @@
           "distance": 6485.9,
           "elevation_gain": 30.0,
           "moving_time": 2205.0
+        },
+        "2026-09-25": {
+          "activity_ids": [
+            "20328709660"
+          ],
+          "count": 1,
+          "distance": 8060.2,
+          "elevation_gain": 48.0,
+          "moving_time": 2675.0
+        },
+        "2026-09-26": {
+          "activity_ids": [
+            "20337608840"
+          ],
+          "count": 1,
+          "distance": 4866.8,
+          "elevation_gain": 40.0,
+          "moving_time": 1688.0
         }
       },
       "Walk": {
@@ -2235,7 +2271,7 @@
       }
     }
   },
-  "generated_at": "2026-09-25T19:07:04.375476+00:00",
+  "generated_at": "2026-09-26T18:18:43.268161+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
