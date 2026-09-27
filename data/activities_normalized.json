@@ -1636,5 +1636,18 @@
     "start_date_local": "2026-09-26T09:21:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 42232.6,
+    "elevation_gain": 222.0,
+    "id": "20355315241",
+    "moving_time": 15621.0,
+    "name": "Hardest test yet",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-27T08:43:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
