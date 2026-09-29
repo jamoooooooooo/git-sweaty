@@ -1649,5 +1649,18 @@
     "start_date_local": "2026-09-27T08:43:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 6466.5,
+    "elevation_gain": 103.0,
+    "id": "20369812761",
+    "moving_time": 2343.0,
+    "name": "Wish I knew the trail was both unpaved and hilly",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-28T16:42:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

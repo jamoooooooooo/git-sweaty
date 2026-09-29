@@ -1142,6 +1142,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20355315241",
       "year": 2026
+    },
+    {
+      "date": "2026-09-28",
+      "hour": 16,
+      "name": "Wish I knew the trail was both unpaved and hilly",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20369812761",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2274,6 +2283,15 @@
           "distance": 42232.6,
           "elevation_gain": 222.0,
           "moving_time": 15621.0
+        },
+        "2026-09-28": {
+          "activity_ids": [
+            "20369812761"
+          ],
+          "count": 1,
+          "distance": 6466.5,
+          "elevation_gain": 103.0,
+          "moving_time": 2343.0
         }
       },
       "Walk": {
@@ -2289,7 +2307,7 @@
       }
     }
   },
-  "generated_at": "2026-09-28T21:03:45.996646+00:00",
+  "generated_at": "2026-09-29T19:46:46.054093+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
