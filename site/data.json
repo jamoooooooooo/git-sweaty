@@ -1151,6 +1151,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20369812761",
       "year": 2026
+    },
+    {
+      "date": "2026-09-29",
+      "hour": 16,
+      "name": "PBridgers concert tn for the plot",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20384234159",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-30",
+      "hour": 0,
+      "name": "the extent of the \u2206",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20388223273",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2292,6 +2310,24 @@
           "distance": 6466.5,
           "elevation_gain": 103.0,
           "moving_time": 2343.0
+        },
+        "2026-09-29": {
+          "activity_ids": [
+            "20384234159"
+          ],
+          "count": 1,
+          "distance": 6467.9,
+          "elevation_gain": 40.0,
+          "moving_time": 2003.0
+        },
+        "2026-09-30": {
+          "activity_ids": [
+            "20388223273"
+          ],
+          "count": 1,
+          "distance": 14522.4,
+          "elevation_gain": 59.0,
+          "moving_time": 4675.0
         }
       },
       "Walk": {
@@ -2307,7 +2343,7 @@
       }
     }
   },
-  "generated_at": "2026-09-29T19:46:46.054093+00:00",
+  "generated_at": "2026-09-30T19:49:02.833549+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",

@@ -1662,5 +1662,31 @@
     "start_date_local": "2026-09-28T16:42:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 6467.9,
+    "elevation_gain": 40.0,
+    "id": "20384234159",
+    "moving_time": 2003.0,
+    "name": "PBridgers concert tn for the plot",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-29T16:19:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 14522.4,
+    "elevation_gain": 59.0,
+    "id": "20388223273",
+    "moving_time": 4675.0,
+    "name": "the extent of the \u2206",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-30T00:08:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
