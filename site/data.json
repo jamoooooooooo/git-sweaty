@@ -1169,6 +1169,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20388223273",
       "year": 2026
+    },
+    {
+      "date": "2026-10-01",
+      "hour": 20,
+      "name": "run or jump? progress or punish?",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20414889091",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2328,6 +2337,15 @@
           "distance": 14522.4,
           "elevation_gain": 59.0,
           "moving_time": 4675.0
+        },
+        "2026-10-01": {
+          "activity_ids": [
+            "20414889091"
+          ],
+          "count": 1,
+          "distance": 21180.9,
+          "elevation_gain": 59.0,
+          "moving_time": 6820.0
         }
       },
       "Walk": {
@@ -2343,7 +2361,7 @@
       }
     }
   },
-  "generated_at": "2026-10-01T20:06:03.029116+00:00",
+  "generated_at": "2026-10-02T19:44:52.553359+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",

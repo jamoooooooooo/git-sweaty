@@ -1688,5 +1688,18 @@
     "start_date_local": "2026-09-30T00:08:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 21180.9,
+    "elevation_gain": 59.0,
+    "id": "20414889091",
+    "moving_time": 6820.0,
+    "name": "run or jump? progress or punish?",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-01T20:37:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
