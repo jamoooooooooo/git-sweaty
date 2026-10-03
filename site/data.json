@@ -1178,6 +1178,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20414889091",
       "year": 2026
+    },
+    {
+      "date": "2026-10-02",
+      "hour": 16,
+      "name": "i choose run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20424530643",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-03",
+      "hour": 8,
+      "name": "14/52 7\u2660\ufe0f",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20433855083",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2346,6 +2364,24 @@
           "distance": 21180.9,
           "elevation_gain": 59.0,
           "moving_time": 6820.0
+        },
+        "2026-10-02": {
+          "activity_ids": [
+            "20424530643"
+          ],
+          "count": 1,
+          "distance": 3253.6,
+          "elevation_gain": 20.0,
+          "moving_time": 1083.0
+        },
+        "2026-10-03": {
+          "activity_ids": [
+            "20433855083"
+          ],
+          "count": 1,
+          "distance": 11303.3,
+          "elevation_gain": 64.0,
+          "moving_time": 3633.0
         }
       },
       "Walk": {
@@ -2361,7 +2397,7 @@
       }
     }
   },
-  "generated_at": "2026-10-02T19:44:52.553359+00:00",
+  "generated_at": "2026-10-03T18:32:01.098989+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",

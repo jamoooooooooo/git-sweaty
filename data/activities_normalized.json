@@ -1701,5 +1701,31 @@
     "start_date_local": "2026-10-01T20:37:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-02",
+    "distance": 3253.6,
+    "elevation_gain": 20.0,
+    "id": "20424530643",
+    "moving_time": 1083.0,
+    "name": "i choose run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-02T16:23:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 11303.3,
+    "elevation_gain": 64.0,
+    "id": "20433855083",
+    "moving_time": 3633.0,
+    "name": "14/52 7\u2660\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-03T08:51:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
