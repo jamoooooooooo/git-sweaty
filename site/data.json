@@ -1214,6 +1214,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20461568843",
       "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 16,
+      "name": "17/52   10\u2666\ufe0f",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20480741725",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2418,6 +2427,15 @@
           "distance": 12890.8,
           "elevation_gain": 55.0,
           "moving_time": 4606.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20480741725"
+          ],
+          "count": 1,
+          "distance": 16122.4,
+          "elevation_gain": 98.0,
+          "moving_time": 5256.0
         }
       },
       "Walk": {
@@ -2433,7 +2451,7 @@
       }
     }
   },
-  "generated_at": "2026-10-06T19:58:28.609967+00:00",
+  "generated_at": "2026-10-07T20:24:23.924531+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
