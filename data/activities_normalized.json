@@ -1779,5 +1779,31 @@
     "start_date_local": "2026-10-07T18:46:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 6461.9,
+    "elevation_gain": 33.0,
+    "id": "20507482470",
+    "moving_time": 2058.0,
+    "name": "19/52    4\u2660\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-08T15:56:36Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 11303.5,
+    "elevation_gain": 27.0,
+    "id": "20514984764",
+    "moving_time": 3796.0,
+    "name": "Fall I am inside you and you\u2019re beautiful",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-09T07:50:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
