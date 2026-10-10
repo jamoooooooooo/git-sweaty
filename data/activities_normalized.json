@@ -1805,5 +1805,18 @@
     "start_date_local": "2026-10-09T07:50:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 14493.2,
+    "elevation_gain": 98.0,
+    "id": "20530307897",
+    "moving_time": 4994.0,
+    "name": "Underestimated the altitude",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-10T08:24:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

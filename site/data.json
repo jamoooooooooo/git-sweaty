@@ -1250,6 +1250,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20514984764",
       "year": 2026
+    },
+    {
+      "date": "2026-10-10",
+      "hour": 8,
+      "name": "Underestimated the altitude",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20530307897",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2490,6 +2499,15 @@
           "distance": 11303.5,
           "elevation_gain": 27.0,
           "moving_time": 3796.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20530307897"
+          ],
+          "count": 1,
+          "distance": 14493.2,
+          "elevation_gain": 98.0,
+          "moving_time": 4994.0
         }
       },
       "Walk": {
@@ -2505,7 +2523,7 @@
       }
     }
   },
-  "generated_at": "2026-10-09T19:59:24.597190+00:00",
+  "generated_at": "2026-10-10T19:07:10.584387+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
