@@ -1818,5 +1818,18 @@
     "start_date_local": "2026-10-10T08:24:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 16121.5,
+    "elevation_gain": 40.0,
+    "id": "20545238485",
+    "moving_time": 4947.0,
+    "name": "Body regretting last night\u2019s choices",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-11T09:40:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
