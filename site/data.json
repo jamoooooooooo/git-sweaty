@@ -1268,6 +1268,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20545238485",
       "year": 2026
+    },
+    {
+      "date": "2026-10-12",
+      "hour": 15,
+      "name": "Magical ass city",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20560600700",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2526,6 +2535,15 @@
           "distance": 16121.5,
           "elevation_gain": 40.0,
           "moving_time": 4947.0
+        },
+        "2026-10-12": {
+          "activity_ids": [
+            "20560600700"
+          ],
+          "count": 1,
+          "distance": 8079.7,
+          "elevation_gain": 30.0,
+          "moving_time": 2733.0
         }
       },
       "Walk": {
@@ -2541,7 +2559,7 @@
       }
     }
   },
-  "generated_at": "2026-10-12T22:23:14.261551+00:00",
+  "generated_at": "2026-10-13T20:29:57.749897+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",

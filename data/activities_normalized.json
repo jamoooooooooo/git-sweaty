@@ -1831,5 +1831,18 @@
     "start_date_local": "2026-10-11T09:40:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-12",
+    "distance": 8079.7,
+    "elevation_gain": 30.0,
+    "id": "20560600700",
+    "moving_time": 2733.0,
+    "name": "Magical ass city",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-12T15:49:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
