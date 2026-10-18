@@ -1896,5 +1896,18 @@
     "start_date_local": "2026-10-16T17:49:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 1642.3,
+    "elevation_gain": 5.0,
+    "id": "20627652350",
+    "moving_time": 666.0,
+    "name": "Food poisoning not gonna be the thing that makes me fail this challenge",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-17T19:14:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

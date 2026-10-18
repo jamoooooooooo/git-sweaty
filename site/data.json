@@ -1313,6 +1313,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20613647990",
       "year": 2026
+    },
+    {
+      "date": "2026-10-17",
+      "hour": 19,
+      "name": "Food poisoning not gonna be the thing that makes me fail this challenge",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20627652350",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2616,6 +2625,15 @@
           "distance": 3245.6,
           "elevation_gain": 7.0,
           "moving_time": 1008.0
+        },
+        "2026-10-17": {
+          "activity_ids": [
+            "20627652350"
+          ],
+          "count": 1,
+          "distance": 1642.3,
+          "elevation_gain": 5.0,
+          "moving_time": 666.0
         }
       },
       "Walk": {
@@ -2631,7 +2649,7 @@
       }
     }
   },
-  "generated_at": "2026-10-17T17:45:31.343616+00:00",
+  "generated_at": "2026-10-18T17:48:50.371825+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
