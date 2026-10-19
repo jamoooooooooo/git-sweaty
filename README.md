@@ -177,3 +177,8 @@ Choose one auth path:
 5. Confirm `Deploy Pages` runs (automatically after a successful sync).
 6. Open your dashboard at:
    - `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/`
+
+
+## 52 Card Challenge export
+
+This version includes an optional integration between Git Sweaty and the challenge site. Follow `STRAVA-SYNC-SETUP.md` for the two-repository setup. Imports start in preview mode, preserve completed run stats, and attach only missing GPS routes. The new Git Sweaty workflow runs about every 30 minutes. No Strava credentials are placed in the public site.

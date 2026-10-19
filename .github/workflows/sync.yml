@@ -2,7 +2,7 @@ name: Sync Heatmaps
 
 on:
   schedule:
-    - cron: "0 15 * * *"
+    - cron: "17,47 * * * *"
   workflow_dispatch:
     inputs:
       source:
@@ -233,6 +233,18 @@ jobs:
             args+=(--update-readme-link)
           fi
           python scripts/run_pipeline.py "${args[@]}"
+
+      - name: Export runs to 52 Card Challenge
+        id: challenge-export
+        continue-on-error: true
+        env:
+          CHALLENGE_SYNC_URL: ${{ secrets.CHALLENGE_SYNC_URL }}
+          CHALLENGE_SYNC_SECRET: ${{ secrets.CHALLENGE_SYNC_SECRET }}
+          CHALLENGE_SYNC_PREVIEW: ${{ vars.CHALLENGE_SYNC_PREVIEW || 'true' }}
+          CHALLENGE_INCLUDE_PRIVATE: ${{ vars.CHALLENGE_INCLUDE_PRIVATE || 'false' }}
+          CHALLENGE_TIME_BASIS: ${{ vars.CHALLENGE_TIME_BASIS || 'moving' }}
+          CHALLENGE_MAX_RUNS_PER_SYNC: ${{ vars.CHALLENGE_MAX_RUNS_PER_SYNC || '6' }}
+        run: python scripts/export_challenge.py
 
       - name: Stamp repository in site data
         env:
