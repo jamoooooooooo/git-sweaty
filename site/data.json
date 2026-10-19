@@ -1322,6 +1322,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20627652350",
       "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 12,
+      "name": "Fall is such a freaking blessing",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20639294272",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2634,6 +2643,15 @@
           "distance": 1642.3,
           "elevation_gain": 5.0,
           "moving_time": 666.0
+        },
+        "2026-10-18": {
+          "activity_ids": [
+            "20639294272"
+          ],
+          "count": 1,
+          "distance": 21127.4,
+          "elevation_gain": 122.0,
+          "moving_time": 7164.0
         }
       },
       "Walk": {
@@ -2649,7 +2667,7 @@
       }
     }
   },
-  "generated_at": "2026-10-18T17:48:50.371825+00:00",
+  "generated_at": "2026-10-19T18:05:36.960396+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",

@@ -1909,5 +1909,18 @@
     "start_date_local": "2026-10-17T19:14:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 21127.4,
+    "elevation_gain": 122.0,
+    "id": "20639294272",
+    "moving_time": 7164.0,
+    "name": "Fall is such a freaking blessing",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-18T12:22:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
