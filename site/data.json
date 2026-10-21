@@ -1349,6 +1349,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20667118488",
       "year": 2026
+    },
+    {
+      "date": "2026-10-21",
+      "hour": 15,
+      "name": "to gaslight or to be gaslit",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20680259728",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2688,6 +2697,15 @@
           "distance": 19347.7,
           "elevation_gain": 57.0,
           "moving_time": 6592.0
+        },
+        "2026-10-21": {
+          "activity_ids": [
+            "20680259728"
+          ],
+          "count": 1,
+          "distance": 17737.9,
+          "elevation_gain": 110.0,
+          "moving_time": 6010.0
         }
       },
       "Walk": {
@@ -2703,7 +2721,7 @@
       }
     }
   },
-  "generated_at": "2026-10-21T20:38:45.535734+00:00",
+  "generated_at": "2026-10-21T23:39:39.594220+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",

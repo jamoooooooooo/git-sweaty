@@ -1948,5 +1948,18 @@
     "start_date_local": "2026-10-20T16:11:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 17737.9,
+    "elevation_gain": 110.0,
+    "id": "20680259728",
+    "moving_time": 6010.0,
+    "name": "to gaslight or to be gaslit",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-21T15:32:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
