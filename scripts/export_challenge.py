@@ -74,6 +74,22 @@ def metrics(activity, athlete_id, basis, points=None):
     }
 
 
+def combine_split_run(activities, linked_id):
+    """One watch-interrupted outing, still one challenge card and one route."""
+    if len(activities) != 2 or any(item.get("points") is None for item in activities):
+        return None
+    primary = next((item for item in activities if item["activity_id"] == linked_id), activities[0])
+    if len({item["time_basis"] for item in activities}) != 1:
+        return None
+    joined = dict(primary)
+    joined["distance_miles"] = sum(item["distance_miles"] for item in activities)
+    joined["seconds"] = sum(item["seconds"] for item in activities) if all(item["seconds"] is not None for item in activities) else None
+    joined["elevation_gain_m"] = sum(item["elevation_gain_m"] for item in activities) if all(item["elevation_gain_m"] is not None for item in activities) else None
+    joined["points"] = sample_points([point for item in activities for point in item["points"]])
+    joined["extra_activity_id"] = next(item["activity_id"] for item in activities if item["activity_id"] != primary["activity_id"])
+    return joined
+
+
 class Provider:
     def __init__(self, config):
         self.config = config
@@ -188,6 +204,8 @@ def run_export():
             by_date[local_date(item)].append(item)
     counts = Counter()
     chosen_dates = set()
+    # The watch died mid-run on Oct 25. Both public Strava recordings are one outing.
+    split_run_dates = {"2026-10-25"}
     for target in sorted(targets, key=lambda row: (row["status"] != "pending", row.get("date") or "")):
         date = target.get("date")
         if not date or date in chosen_dates:
@@ -224,11 +242,18 @@ def run_export():
             if not running(activity) or float(activity.get("distance", 0)) < 16.1:
                 counts["non_running_or_short_activity"] += 1
                 continue
-            coords = gps_for(provider, activity) if needs_gps(target) and (len(candidates) == 1 or identity == target.get("activity_id")) else None
+            coords = gps_for(provider, activity) if needs_gps(target) and (len(candidates) == 1 or identity == target.get("activity_id") or date in split_run_dates) else None
             batch.append(metrics(activity, athlete_id, basis, coords))
         budget -= len(candidates)
+        day_count = len(candidates)
+        if date in split_run_dates and len(candidates) == 2 and len(batch) == 2 and needs_gps(target):
+            combined = combine_split_run(batch, target.get("activity_id"))
+            if combined is not None:
+                batch = [combined]
+                day_count = 1
+                counts["split_run_joined"] += 1
         if batch:
-            result = site_request(session, "POST", url, json={"activities": batch, "day_count": len(candidates), "dry_run": preview})
+            result = site_request(session, "POST", url, json={"activities": batch, "day_count": day_count, "dry_run": preview})
             for item in result["results"]:
                 counts[item.get("reason") or item["outcome"]] += 1
                 if item.get("route_added"):
