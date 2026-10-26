@@ -1403,6 +1403,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20730616497",
       "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 16,
+      "name": "negative splitsss",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20743067082",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2788,6 +2797,15 @@
           "distance": 17974.4,
           "elevation_gain": 79.0,
           "moving_time": 5962.0
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "20743067082"
+          ],
+          "count": 1,
+          "distance": 9691.3,
+          "elevation_gain": 17.0,
+          "moving_time": 2939.0
         }
       },
       "Walk": {
@@ -2803,7 +2821,7 @@
       }
     }
   },
-  "generated_at": "2026-10-26T19:35:17.414545+00:00",
+  "generated_at": "2026-10-26T23:22:35.190303+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",

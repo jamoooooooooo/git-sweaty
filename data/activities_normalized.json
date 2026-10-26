@@ -2026,5 +2026,18 @@
     "start_date_local": "2026-10-25T15:12:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 9691.3,
+    "elevation_gain": 17.0,
+    "id": "20743067082",
+    "moving_time": 2939.0,
+    "name": "negative splitsss",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-26T16:55:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
