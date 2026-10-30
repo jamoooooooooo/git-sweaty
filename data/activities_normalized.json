@@ -2078,5 +2078,18 @@
     "start_date_local": "2026-10-29T08:09:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 16230.0,
+    "elevation_gain": 159.0,
+    "id": "20795903239",
+    "moving_time": 5640.0,
+    "name": "just better",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-30T15:45:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

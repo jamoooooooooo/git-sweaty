@@ -1439,6 +1439,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20777706978",
       "year": 2026
+    },
+    {
+      "date": "2026-10-30",
+      "hour": 15,
+      "name": "just better",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20795903239",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2860,6 +2869,15 @@
           "distance": 3247.4,
           "elevation_gain": 22.0,
           "moving_time": 1046.0
+        },
+        "2026-10-30": {
+          "activity_ids": [
+            "20795903239"
+          ],
+          "count": 1,
+          "distance": 16230.0,
+          "elevation_gain": 159.0,
+          "moving_time": 5640.0
         }
       },
       "Walk": {
@@ -2875,7 +2893,7 @@
       }
     }
   },
-  "generated_at": "2026-10-30T18:37:52.205268+00:00",
+  "generated_at": "2026-10-30T22:39:59.446143+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
