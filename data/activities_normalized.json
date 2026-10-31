@@ -2104,5 +2104,18 @@
     "start_date_local": "2026-10-31T11:58:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 1694.8,
+    "elevation_gain": 2.0,
+    "id": "20808285928",
+    "moving_time": 418.0,
+    "name": "beer mile PR",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-31T14:26:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
