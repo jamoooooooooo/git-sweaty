@@ -2091,5 +2091,18 @@
     "start_date_local": "2026-10-30T15:45:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 14512.5,
+    "elevation_gain": 83.0,
+    "id": "20807496681",
+    "moving_time": 5124.0,
+    "name": "blessed to my core",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-31T11:58:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

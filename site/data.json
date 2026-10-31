@@ -1448,6 +1448,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20795903239",
       "year": 2026
+    },
+    {
+      "date": "2026-10-31",
+      "hour": 11,
+      "name": "blessed to my core",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20807496681",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2878,6 +2887,15 @@
           "distance": 16230.0,
           "elevation_gain": 159.0,
           "moving_time": 5640.0
+        },
+        "2026-10-31": {
+          "activity_ids": [
+            "20807496681"
+          ],
+          "count": 1,
+          "distance": 14512.5,
+          "elevation_gain": 83.0,
+          "moving_time": 5124.0
         }
       },
       "Walk": {
@@ -2893,7 +2911,7 @@
       }
     }
   },
-  "generated_at": "2026-10-31T14:47:14.400144+00:00",
+  "generated_at": "2026-10-31T18:50:28.187533+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
