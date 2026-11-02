@@ -1466,6 +1466,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20808285928",
       "year": 2026
+    },
+    {
+      "date": "2026-11-01",
+      "hour": 18,
+      "name": "questions galore !",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20823699275",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2906,6 +2915,15 @@
           "distance": 16207.3,
           "elevation_gain": 85.0,
           "moving_time": 5542.0
+        },
+        "2026-11-01": {
+          "activity_ids": [
+            "20823699275"
+          ],
+          "count": 1,
+          "distance": 4860.2,
+          "elevation_gain": 34.0,
+          "moving_time": 1579.0
         }
       },
       "Walk": {
@@ -2921,7 +2939,7 @@
       }
     }
   },
-  "generated_at": "2026-11-01T23:06:45.405419+00:00",
+  "generated_at": "2026-11-02T02:31:54.364317+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",
