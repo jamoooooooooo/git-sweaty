@@ -1484,6 +1484,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20836432075",
       "year": 2026
+    },
+    {
+      "date": "2026-11-03",
+      "hour": 16,
+      "name": "what even are intervals",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20848705047",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2942,6 +2951,15 @@
           "distance": 8077.3,
           "elevation_gain": 22.0,
           "moving_time": 2627.0
+        },
+        "2026-11-03": {
+          "activity_ids": [
+            "20848705047"
+          ],
+          "count": 1,
+          "distance": 4859.5,
+          "elevation_gain": 24.0,
+          "moving_time": 1593.0
         }
       },
       "Walk": {
@@ -2957,7 +2975,7 @@
       }
     }
   },
-  "generated_at": "2026-11-03T17:52:16.836891+00:00",
+  "generated_at": "2026-11-03T23:24:02.816017+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/200753120",
   "repo": "jamoooooooooo/git-sweaty",

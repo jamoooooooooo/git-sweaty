@@ -2143,5 +2143,18 @@
     "start_date_local": "2026-11-02T18:38:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 4859.5,
+    "elevation_gain": 24.0,
+    "id": "20848705047",
+    "moving_time": 1593.0,
+    "name": "what even are intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-03T16:13:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
